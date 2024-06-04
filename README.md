@@ -8,8 +8,4 @@ https://whatthefuck.lanzoue.com/il3uT20rz38b
 
 # 截图:
 
-<img src="https://github.com/yd5513868/yep.python.hook/blob/main/截图_1.png"/>
-
-<img src="https://github.com/yd5513868/yep.python.hook/blob/main/截图_2.png"/>
-
-<img src="https://github.com/yd5513868/yep.python.hook/blob/main/截图_3.png"/>
+|<img src="https://github.com/yd5513868/yep.python.hook/blob/main/截图_1.png"/>|<img src="https://github.com/yd5513868/yep.python.hook/blob/main/截图_2.png"/>|<img src="https://github.com/yd5513868/yep.python.hook/blob/main/截图_3.png"/>|
